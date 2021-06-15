@@ -2,6 +2,9 @@
  Progress Bar in CSS, JS, TS, Canvas
 
 
+ [commnet]: <> (<img src="https://github.com/dilipxp/PorgressBar/blob/main/samples/bar-css.png" width="200" height="200"/>)
+
+
 ![Alt Text](https://github.com/dilipxp/PorgressBar/blob/main/samples/bar-css.png width="200" height="200")  
 ![Alt Text](https://github.com/dilipxp/PorgressBar/blob/main/samples/bar-js.gif width="200" height="200")  
 ![Alt Text](https://github.com/dilipxp/PorgressBar/blob/main/samples/bar-canvas.gif width="200" height="200")  
