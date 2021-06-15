@@ -1,0 +1,43 @@
+.bar-container {
+    text-align: center;
+}
+
+/* Bar Style Groups*/
+
+.bar-group {
+    margin: auto;
+    border: 2px;
+    background-color: #d7d9d0;
+    width: 50%;
+}
+
+.bar-group-rounded {
+    margin: auto;
+    border: 2px;
+    background-color: #d7d9d0;
+    width: 50%;
+    border-radius: 25px;
+
+}
+
+
+/* Bar Style*/
+
+.bar-1 {
+    height: 24px;
+    width: 20%;
+    background-color: red;
+}
+
+.bar-2 {
+    height: 24px;
+    width: 30%;
+    background-color: blueviolet;
+}
+
+.bar-3 {
+    height: 24px;
+    width: 50%;
+    background-color: green;
+    border-radius: 25px;
+}

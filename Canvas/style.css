@@ -1,0 +1,18 @@
+
+/* canvas {
+    padding: 20px;
+  } */
+
+#progressBar {
+    width: 80%;
+    height: 30px;
+    border: 2px solid rgb(226, 27, 5);
+    border-radius: 5px;
+    background-color: #dce6df;
+}
+
+
+.progress-bar-container {
+    text-align: center;
+    color: blueviolet;
+}
